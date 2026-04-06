@@ -34,4 +34,4 @@ Bug reports and feature suggestions are also appreciated.
 
 ## License
 
-(c) 2024 Matt James and contributors. All rights reserved. Licensed under the MIT License.
+(c) 2026 Matt James and contributors. All rights reserved. Licensed under the MIT License.
